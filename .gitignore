@@ -1,0 +1,7 @@
+# Escribir explicitamente el nombre del archivo
+# Ignorar todos los archivos de una misma extensión
+*.log
+
+#Ignorar una carpeta completa
+reports/
+
